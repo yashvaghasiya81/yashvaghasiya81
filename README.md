@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my project<br>🌱 I’m currently learning AI/ML<br>
+Microsoft Certified Data Engineer with internship experience in Data Engineering Skilled in Microsoft Fabric, Azure, Apache Spark (PySpark), SQL, Python, and Power BI, with hands-on experience in building ETL/ELT pipelines, Lakehouse and Data Warehouse solutions, and transforming raw data into analytics-ready datasets. Passionate about designing scalable data solutions, solving real-world business problems, and continuously learning modern cloud and data technologies. Currently seeking opportunities to contribute and grow as a Data Engineer.
 
 
 ## 🌐 Socials:
